@@ -36,4 +36,9 @@ li {
 
 h2{
   color: black;
+  text-align: center;
+}
+
+p{
+  color: grey;
 }
