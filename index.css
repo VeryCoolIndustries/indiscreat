@@ -33,3 +33,6 @@ li {
     padding: 5px;
     display: block;
   }
+  body {
+    background-color: black;
+  }
