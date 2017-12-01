@@ -27,6 +27,9 @@ li {
 p {
   text-align: center;
 }
+body{
+  background: #E2FFBE;
+}
 
 @media (max-width: 500px) {
   h1 {
