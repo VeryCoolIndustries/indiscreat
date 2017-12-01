@@ -24,6 +24,9 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
+p {
+  text-align: center;
+}
 
 @media (max-width: 500px) {
   h1 {
