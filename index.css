@@ -28,7 +28,7 @@ p {
   text-align: center;
 }
 body{
-  background: #E2FFBE;
+  background-color: #E2FFBE;
 }
 
 @media (max-width: 500px) {
