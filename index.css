@@ -28,6 +28,7 @@ li {
 p {
   text-align: center;
   color: white;
+  max-width: 500px;
 }
 body{
   background-color: #E2FFBE;
