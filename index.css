@@ -27,12 +27,13 @@ li {
 }
 p {
   text-align: center;
-  color: white;
   max-width: 500px;
+  color: black;
 }
 body{
   background-color: #E2FFBE;
   text-align: center;
+  color: black;
 }
 
 @media (max-width: 500px) {
