@@ -32,6 +32,7 @@ p {
 }
 body{
   background-color: #E2FFBE;
+  text-align: center;
 }
 
 @media (max-width: 500px) {
