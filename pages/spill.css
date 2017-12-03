@@ -1,7 +1,9 @@
 header {
  text-align: center;
- background: url('https://images.pexels.com/photos/7095/people-coffee-notes-tea.jpg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb');
+ background-color: #FFBEF1;
+ /* background: url("https://cdn.pixabay.com/photo/2017/07/23/20/50/houses-2532766_1280.jpg");
  background-size: cover;
+ background-position: center; */
 }
 a {
  color: white;
@@ -23,7 +25,17 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
+p {
+  text-align: center;
+  color: black;
+}
+body{
+  background-color: #E2FFBE;
+}
 
+article{
+  text-align: center;
+}
 @media (max-width: 500px) {
   h1 {
      font-size: 36px;
@@ -33,20 +45,10 @@ li {
     padding: 5px;
     display: block;
   }
+  body {
+    background: #E2FFBE;
+  }
 
-h2{
-  color: white;
-  text-align: center;
-}
-
-h3{
-  color: white;
-}
-
-p{
-  color: grey;
-}
-
-body{
-  background: black;
-}
+  p {
+    text-align: center;
+  }
