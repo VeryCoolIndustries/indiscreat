@@ -5,8 +5,11 @@ header {
  background-size: cover;
  background-position: center; */
 }
-h1{
- 
+body {
+  background: linear-gradient(to right, #f7ff00, #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
  font: #FFFFFF; 
  font-family: 'Bungee Shade' !important, cursive;
  font-size: 70px;
@@ -36,11 +39,7 @@ p {
   text-align: center;
   color: black;
 }
-body{
-  background-color: linear-gradient(to right, #f7ff00, #db36a4);
-  text-align: center;
-  color: black;
-}
+
 
 @media (max-width: 500px) {
   h1 {
