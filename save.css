@@ -6,7 +6,8 @@ header {
  background-position: center; */
 }
 h1{
- font: #FFFFFF; 
+  
+ font-color: #FFFFFF; 
  font-family: 'Bungee Shade', cursive;
  font-size: 70px;
 }
