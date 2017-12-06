@@ -5,15 +5,16 @@ header {
  background-size: cover;
  background-position: center; */
 }
-h1{
- 
- font: #FFFFFF; 
- font-family: 'Bungee Shade', cursive;
- font-size: 70px;
+
+a {
+ color: white;
 }
 
-a link {
- color: white;
+h1{
+ 
+ color: #FFFFFF; 
+ font-family: 'Bungee Shade', cursive;
+ font-size: 70px;
 }
 
 }
@@ -22,22 +23,24 @@ img {
   border: 7px solid white;
   border-radius: 20px;
 }
+
 ul {
   padding: 10px;
   background: rgba(0,0,0,0.5);
   color:white;
 }
+
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
-  font-color: white;
+  color: white;
 }
 p {
   text-align: center;
   color: black;
 }
 body{
-  background-color: linear-gradient(to right, #f7ff00, #db36a4);
+  background: linear-gradient(to right, #f7ff00, #db36a4);
   text-align: center;
   color: black;
 }

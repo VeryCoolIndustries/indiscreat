@@ -35,7 +35,7 @@ p {
   color: black;
 }
 body{
-  background-color: linear-gradient(to right, #f7ff00, #db36a4);
+  background: linear-gradient(to right, #f7ff00, #db36a4);
   text-align: center;
   color: black;
 }
