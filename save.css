@@ -37,14 +37,14 @@ p {
   text-align: center;
   color: black;
 }
-<<<<<<< HEAD
+
 body{
   background: linear-gradient(to right, #f7ff00, #db36a4);
   text-align: center;
   color: black;
 }
-=======
->>>>>>> 5067d9f5bf26a83291cebb354d51648e1c43d0d9
+
+
 
 @media (max-width: 500px) {
   h1 {

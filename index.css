@@ -5,7 +5,7 @@ header {
  background-size: cover;
  background-position: center; */
 }
-<<<<<<< HEAD
+
 
 a {
  color: white;
@@ -15,7 +15,7 @@ h1{
  
  color: #FFFFFF; 
  font-family: 'Bungee Shade', cursive;
-=======
+
 body {
   background: linear-gradient(to right, #f7ff00, #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
@@ -23,7 +23,7 @@ body {
 h1 {
  font: #FFFFFF; 
  font-family: 'Bungee Shade' !important, cursive;
->>>>>>> 5067d9f5bf26a83291cebb354d51648e1c43d0d9
+
  font-size: 70px;
 }
 
@@ -49,15 +49,15 @@ p {
   text-align: center;
   color: black;
 }
-<<<<<<< HEAD
+
 body{
   background: linear-gradient(to right, #f7ff00, #db36a4);
   text-align: center;
   color: black;
 }
-=======
 
->>>>>>> 5067d9f5bf26a83291cebb354d51648e1c43d0d9
+
+
 
 @media (max-width: 500px) {
   h1 {
