@@ -7,20 +7,15 @@ header {
 }
 h1{
  
- font: white; 
+ font: #FFFFFF; 
  font-family: 'Bungee Shade', cursive;
-}
-
-body {
-  background: linear-gradient(to right, #f7ff00, #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-a {
- color: white;
-}
-h1 {
  font-size: 70px;
- color: white;
+}
+
+a link {
+ color: #000000;
+}
+
 }
 img {
   margin: 40px 0px 0px 0px;
@@ -40,7 +35,7 @@ p {
   color: black;
 }
 body{
-  background-color: #E2FFBE;
+  background-color: linear-gradient(to right, #f7ff00, #db36a4);
   text-align: center;
   color: black;
 }
