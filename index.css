@@ -1,10 +1,18 @@
 header {
  text-align: center;
- background-color: #BEA8FF; /*#FFBEF1;*/
+ background-color: #000000; /*#FFBEF1;*/
  /* background: url("https://cdn.pixabay.com/photo/2017/07/23/20/50/houses-2532766_1280.jpg");
  background-size: cover;
  background-position: center; */
+ font: #56FFFB; 
+ font-family: 'Bungee Shade', cursive;
 }
+
+
+body {
+  background: linear-gradient(to right, #f7ff00, #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
 a {
  color: white;
 }
