@@ -21,7 +21,6 @@ img {
   margin: 40px 0px 0px 0px;
   border: 7px solid white;
   border-radius: 20px;
-  font-color: white;
 }
 ul {
   padding: 10px;
@@ -30,6 +29,7 @@ ul {
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
+  font-color: white;
 }
 p {
   text-align: center;
